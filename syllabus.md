@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu; Webcourses preferred
-- **Office:** Zoom; Thursday 12 - 3 PM
+- **Office:** Zoom; Tuesday 12 - 3 PM
 - **Course Meeting:** Asynchronous Online
   
 ---
