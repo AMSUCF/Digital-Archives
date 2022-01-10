@@ -35,6 +35,7 @@
     - [Week Fifteen: Data (Monday, April 25)](#week-fifteen-data-monday-april-25)
     - [Final Reflection (Due Sunday, May 1st)](#final-reflection-due-sunday-may-1st)
   - [General Policies](#general-policies)
+    - [Gordon Rule and Academic Standards](#gordon-rule-and-academic-standards)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
@@ -92,9 +93,9 @@ In addition, each module includes samples, tutorials, and resources to guide the
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, January 14, 2022  |
-| 50  | **Weekly Discussions** - Weekly discussions (10) will vary, with topics to include reporting back on the technical exercise progress; reflecting on the design and approach of existing archives; and responding to provocations from the readings. There are no discussions on weeks projects are due. | Weekly |
-| 40 | **Archive Exercises** - Students will build technical skills through four digital humanities exercises, building an Omeka archive; a Scalar exhibition; a TimelineJS visualization; and a Voyant text analysis.  | See dates in weekly schedule  |
-| 5 | **Final Reflection** - In a short written reflection during final exam week, students will connect the readings to their progress in making and analyzing digital archives, and speculate on the future of digital archive design. | |
+| 50  | **Weekly Discussions** - Weekly discussions (10) will vary, with topics to include reporting back on the technical exercise progress; reflecting on the design and approach of existing archives; and responding to provocations from the readings. There are no discussions on weeks projects are due. Discussion posts each require 350-500 words. | Weekly |
+| 40 | **Archive Exercises** - Students will build technical skills through four digital humanities exercises, building an Omeka archive; a Scalar exhibition; a TimelineJS visualization; and a Voyant text analysis. Each exercise includes a 750 word written component.  | See dates in weekly schedule  |
+| 5 | **Final Reflection** - In a short (500-750 word) written reflection during final exam week, students will connect the readings to their progress in making and analyzing digital archives, and speculate on the future of digital archive design. | |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 (all listed points above equated to 1% point) following the standard letter scale below:
 
@@ -137,56 +138,56 @@ All modules open on the listed dates (Mondays), and all assignments close on Sun
 - Explore: [Florida Memory](https://www.floridamemory.com/)
 - Make: Create an Omeka Account
 - **Due: Activity Verification (Friday January 14th)**
-- **Discussion One**
+- **Discussion One: Introductions**
 
 ### Week Two: Preservation (Monday, January 17)
 
 - Read:  Owens, Preservation's Divergent Lineages
 - Explore: [Square Dance History Project](https://squaredancehistory.org/)
 - Make: Adding Omeka Content
-- **Discussion Two**
+- **Discussion Two: Critiquing Preservation (GR)**
 
 ### Week Three: Digital Objects (Monday, January 24)
 
 - Read: Owens, Understanding Digital Objects
 - Explore: [Kentucky Oral History](https://kentuckyoralhistory.org/)
 - Make: Understanding Omeka Metadata
-- **Discussion Three**
+- **Discussion Three: Draft of Omeka (GR)**
 
 ### Week Four: Challenges (Monday, January 31)
 
 - Read: Owens, Challenges and Opportunities of Digital Preservation
 - Explore: [*Canada Declassified*](https://declassified.library.utoronto.ca/)
 - Make: Finish Omeka Prototype
-- **Archive Exercise One: Omeka Due**
+- **Archive Exercise One: Omeka Due (GR)**
   
 ### Week Five: Craft (Monday, February 7)
 
 - Read: Owens, Craft of Digital Preservation
 - Explore: [*Alice Online: The Works and World of Lewis Carroll*](https://scalar.usc.edu/works/alice-online/index)
 - Make: Create a Scalar Account
-- **Discussion Four**
+- **Discussion Four: Exploring Craft (GR)**
 
 ### Week Six: Formats (Monday, February 14)
 
 - Read: Owens, Managing Copies and Formats
 - Explore: [*Performing Archive*](https://scalar.usc.edu/works/performingarchive/index)
 - Make: Connecting Archives in Scalar
-- **Discussion Five**
+- **Discussion Five: Format Challenges (GR)**
   
 ### Week Seven: Metadata (Monday, February 21)
 
 - Read: Owens, Arranging and Describing Digital Objects
 - Explore: [*Bodies and Structures 2.0*](https://bodiesandstructures.org/bodies-and-structures-2/index)
 - Make: Linking and Representing Ideas in Scalar
-- **Discussion Six**
+- **Discussion Six: Draft of Scalar Exhibition (GR)**
 
 ### Week Eight: Multimodal (Monday, February 28)
 
 - Read: Owens, Enabling Multimodal Access and Use
 - Explore: Explore: [*Pathfinders: Documenting the Experience of Early Digital Literature.*](https://scalar.usc.edu/works/pathfinders/index)
 - Make: Finish Scalar Exhibition
-- **Archive Exercise Two: Scalar Due**
+- **Archive Exercise Two: Scalar Due (GR)**
 
 ### Spring Break: Enjoy the holiday! (Monday, March 7)
 
@@ -195,35 +196,35 @@ All modules open on the listed dates (Mondays), and all assignments close on Sun
 - Read: Owens, Tools for Looking Forward
 - Explore: [*The Knotted Line*](https://scalar.usc.edu/anvc/the-knotted-line/index)
 - Make: Working with Google Sheets
-- **Discussion Seven**
+- **Discussion Seven: Evaluating Tools (GR)**
 
 ### Week Ten: Timelines (Monday, March 21)
 
 - Read: De Kosnik, Introduction and Key Terms
 - Explore: [*Throughlines: Social Injustice and Activism in Los Angeles*](https://scalar.usc.edu/works/throughlines/index)
 - Make: Embedding Multimodal Content
-- **Discussion Eight**
+- **Discussion Eight: Timeline JS Draft (GR)**
 
 ### Week Eleven: Memory (Monday, March 28)
 
 - Read: De Kosnik, Memory Machine Myth
 - Explore: [Internet Archive](https://archive.org/)
 - Make: Finishing your Timeline
-- **Archive Exercise Three: TimelineJS Due**
+- **Archive Exercise Three: TimelineJS Due (GR)**
   
 ### Week Twelve: Styles (Monday, April 4)
 
 - Read: De Kosnik, Archival Styles
 - Explore: [Robots Reading Vogue](https://dhlab.yale.edu/projects/vogue/)
 - Make: Choosing a Set of Texts
-- **Discussion Nine**
+- **Discussion Nine: Textual Analysis (GR)**
 
 ### Week Thirteen: Histories (Monday, April 11)
 
 - Read: De Kosnik, Print Fans vs Net Fans
 - Explore: [Archive of Our Own](https://archiveofourown.org/)
 - Make: Visualizing Words
-- **Discussion Ten**
+- **Discussion Ten: Voyant Draft (GR)**
 
 ### Week Fourteen: Futures (Monday, April 18)
 
@@ -237,15 +238,28 @@ All modules open on the listed dates (Mondays), and all assignments close on Sun
 - Read: De Kosnik, Fan Data
 - Explore: [Archive Team](https://wiki.archiveteam.org/)
 - Make: Finishing
-- **Archive Exercise Four: Voyant Due**
+- **Archive Exercise Four: Voyant Due (GR)**
 
 ### Final Reflection (Due Sunday, May 1st)
 
-- Submit & complete your reflection, as well as any approved late work, by 11:59PM on Sunday, May 1st!
+- Submit & complete your reflection (GR), as well as any approved late work, by 11:59PM on Sunday, May 1st!
 
 ---
 
 ## General Policies
+
+### Gordon Rule and Academic Standards
+
+This course is a Gordon Rule course. It contains 6000 words of evaluated writing as required by the English Department.
+Assignments which fulfill the Gordon Rule are indicated with GR on the weekly schedule. Each has the following characteristics:
+
+1. The writing will have a clearly defined central idea or thesis
+2. It will provide adequate support for that idea
+3. It will be organized clearly and logically
+4. It will show awareness of the conventions of standard written English
+5. It will be formatted or presented in an appropriate way.
+
+All major exercises will first be submitted as drafts, as indicated in the weekly schedule.
 
 ### Academic Integrity
 
