@@ -2,10 +2,13 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu; Webcourses preferred
-- **Office:** Zoom; Tuesday 12 - 3 PM
+- **Office Hours:** Zoom; Tuesday 12 - 3 PM
 - **Course Meeting:** Asynchronous Online
   
 ---
+
+- **Credit Hours:** 3
+- **Prerequisites:** Grade of "C" (2.0) or better in ENC 1102 or C.I.
 
 ## Contents
 
