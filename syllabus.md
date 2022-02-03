@@ -173,7 +173,7 @@ All modules open on the listed dates (Mondays), and all assignments close on Sun
 
 ### Week Six: Formats (Monday, February 14)
 
-- Read: Owens, Managing Copies and Formats
+- Read: Owens, Preservation Intent + Managing Copies and Formats
 - Explore: [*Performing Archive*](https://scalar.usc.edu/works/performingarchive/index)
 - Make: Connecting Archives in Scalar
 - **Discussion Five: Format Challenges**
