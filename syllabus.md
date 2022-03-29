@@ -85,7 +85,7 @@ Each week, plan on following the module for all asynchronous activities. Each mo
 This course requires no texbook or software purchases. The primary texts are available for free through the UCF library, and all additional readings included in the weekly listings are freely available online. To access the textbooks through the UCF library, use the following links:
 
 - Trevor Owens, *Theory and Craft of Digital Preservation.* [Unlimited use ebook available through UCF](https://ucf-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UCF/rh57g9/cdi_askewsholts_vlebooks_9781421426983)
-- Abigail d Kosnik, *Rogue Archives.* [Unlimited use ebook available through UCF](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=5966612)
+- Abigail De Kosnik, *Rogue Archives.* [Unlimited use ebook available through UCF](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=5966612)
   
 In addition, each module includes samples, tutorials, and resources to guide the projects and discussions.
 
@@ -218,20 +218,20 @@ All modules open on the listed dates (Mondays), and all assignments close on Sun
 ### Week Twelve: Styles (Monday, April 4)
 
 - Read: De Kosnik, Archival Styles
-- Explore: [Robots Reading Vogue](https://dhlab.yale.edu/projects/vogue/)
+- Explore: [Archive of Our Own](https://archiveofourown.org/)
 - Make: Choosing a Set of Texts
 - **Discussion Nine: Textual Analysis**
 
 ### Week Thirteen: Histories (Monday, April 11)
 
-- Read: De Kosnik, Print Fans vs Net Fans
-- Explore: [Archive of Our Own](https://archiveofourown.org/)
+- Read: De Kosnik, Queer and Feminist Archival Cultures
+- Explore: [Robots Reading Vogue](https://dhlab.yale.edu/projects/vogue/)
 - Make: Visualizing Words
 - **Discussion Ten: Voyant Draft (GR)**
 
 ### Week Fourteen: Futures (Monday, April 18)
 
-- Read: De Kosnik, Archontic Production
+- Read: De Kosnik, Print Fans vs Net Fans & Archontic Production
 - Explore: [LGBTQ Video Game Archive](https://lgbtqgamearchive.com/)
 - Make: Understanding a Corpus
 - **Discussion Eleven (Optional Extra Credit / Make-up Discussion)**
